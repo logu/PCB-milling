@@ -3,23 +3,24 @@
 PCB milling can be seen as printing a circuit on to a piece of copper. This allows us to
 check our design before having it Professionally made.
 
-The milling is done on a copper substrate, it is a piece of fiber glass fiber
-which has copper one side or both side covered in copper. The copper layers are
-what form the traces after being put through the milling machine.
+The milling is done on a copper substrate, it is a piece of fiber glass which has one side or both side covered in copper. The copper layers are what form the traces after being put through the milling machine.
 
+The main purpuse here is to test different end mills and settings to get a decent result in PCB milling
 
-## CNC Machine
+## CNC Router
 
+A CNC router is a computer-controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for computer numerical control.
+Here the following CNC router is tested for the PCB milling process.
 
 <img src="http://www.cnc-shop.ch/user/cimage/3040-03.jpg" width="350">
 
-Machine from (CNC Shop)[http://www.cnc-shop.ch/cnc3040.html]
+This CNC router is from (CNC Shop)[http://www.cnc-shop.ch/cnc3040.html]
 
-* Type:	3040 v3.0
+* Model: 3040 v3.0
 * Weight: 40kg
-* Materiel:	Casted aluminium
+* Materiel: Casted aluminium
 * Spindle speed: 6000 - 24000 tr/min
-* Spindle power:	800W
+* Spindle power: 800W
 * Collet fixture: ER11
 
 Dimensions |  X  |  Y  |  Z  |
@@ -28,8 +29,10 @@ Travel size| 300 | 400 |  50
 Table siez | 320 | 580 |  85
 
 ## Milling bits
-Tool Shank Diameter : 3 mm
 
+Milling cutters are cutting tools typically used in milling machines or machining centres to perform milling operations They remove material by their movement within the machine or directly from the cutter's shape
+The milling bits are fixed to the spindle by usinf ER 11 collet.
+Tool Shank Diameter : 3 mm
 
 ### Trace cutout bits (Endmill)
 
