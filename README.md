@@ -14,7 +14,7 @@ Here the following CNC router is tested for the PCB milling process.
 
 <img src="http://www.cnc-shop.ch/user/cimage/3040-03.jpg" width="350">
 
-This CNC router is from (CNC Shop)[http://www.cnc-shop.ch/cnc3040.html]
+This CNC router is from [CNC Shop](http://www.cnc-shop.ch/cnc3040.html)
 
 * Model: 3040 v3.0
 * Weight: 40kg
@@ -30,8 +30,7 @@ Table siez | 320 | 580 |  85
 
 ## Milling bits
 
-Milling cutters are cutting tools typically used in milling machines or machining centres to perform milling operations They remove material by their movement within the machine or directly from the cutter's shape
-The milling bits are fixed to the spindle by usinf ER 11 collet.
+Milling cutters are cutting tools typically used in milling machines or machining centers to perform milling operations They remove material by their movement within the machine or directly from the cutter's shape. The milling bits are fixed to the spindle by usinf ER 11 collet.
 Tool Shank Diameter : 3 mm
 
 ### Trace cutout bits (Endmill)
